@@ -1,6 +1,6 @@
 # Hello EveryOne and welcome. 
 
-## The following projects are all intended to help the understanding of the functionallity of certain modules and librarie created for Python.
+## The following projects are all intended to help the understanding of the functionallity of certain modules and libraries created for Python.
 
 ## These work in many ways to help pentesters in their role inside our society.
 
