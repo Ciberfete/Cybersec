@@ -1,4 +1,4 @@
-#!/root/PycharmProjects/EthicalHacking/MacAddress_Cahnger/venv/bin/python
+#!/root/PycharmProjects/EthicalHacking/MacAddress_Changer/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
