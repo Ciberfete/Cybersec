@@ -1,1 +1,1 @@
-# Cybersecurity as an Ethical Hacking Student
+# Given the power, use it wisely. 
